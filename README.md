@@ -1,8 +1,10 @@
 # flood it
 NOTE
+
 It's a changing square colours game and not WORKING PROPERLY (>_<) I have bugs in it and couldn't create a good algorithm yet. There are so many possibilities in changing square colours. sorry :/ 
 
 DESCRIPTION
+
 Game starts from upper left corner. Player clickes one of the 6 colours in order to change the colour of the square around the upper left corner which has the same colour with corner square. The goal is to change square colours gradually to make all of the squares the same colour under the 24 moves.
 
 IMAGES

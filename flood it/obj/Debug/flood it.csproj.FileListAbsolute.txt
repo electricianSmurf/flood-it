@@ -1,0 +1,18 @@
+C:\Users\Yücel\Desktop\VStudio projects\flood it\flood it\bin\Debug\flood it.exe.config
+C:\Users\Yücel\Desktop\VStudio projects\flood it\flood it\bin\Debug\flood it.exe
+C:\Users\Yücel\Desktop\VStudio projects\flood it\flood it\bin\Debug\flood it.pdb
+C:\Users\Yücel\Desktop\VStudio projects\flood it\flood it\obj\Debug\flood it.csprojResolveAssemblyReference.cache
+C:\Users\Yücel\Desktop\VStudio projects\flood it\flood it\obj\Debug\flood_it.Form1.resources
+C:\Users\Yücel\Desktop\VStudio projects\flood it\flood it\obj\Debug\flood_it.Properties.Resources.resources
+C:\Users\Yücel\Desktop\VStudio projects\flood it\flood it\obj\Debug\flood it.csproj.GenerateResource.Cache
+C:\Users\Yücel\Desktop\VStudio projects\flood it\flood it\obj\Debug\flood it.exe
+C:\Users\Yücel\Desktop\VStudio projects\flood it\flood it\obj\Debug\flood it.pdb
+C:\Users\R\Desktop\VStudio projects\flood it\flood it\bin\Debug\flood it.exe.config
+C:\Users\R\Desktop\VStudio projects\flood it\flood it\obj\Debug\flood it.exe
+C:\Users\R\Desktop\VStudio projects\flood it\flood it\obj\Debug\flood it.pdb
+C:\Users\R\Desktop\VStudio projects\flood it\flood it\bin\Debug\flood it.exe
+C:\Users\R\Desktop\VStudio projects\flood it\flood it\bin\Debug\flood it.pdb
+C:\Users\R\Desktop\VStudio projects\flood it\flood it\obj\Debug\flood it.csprojResolveAssemblyReference.cache
+C:\Users\R\Desktop\VStudio projects\flood it\flood it\obj\Debug\flood_it.Form1.resources
+C:\Users\R\Desktop\VStudio projects\flood it\flood it\obj\Debug\flood_it.Properties.Resources.resources
+C:\Users\R\Desktop\VStudio projects\flood it\flood it\obj\Debug\flood it.csproj.GenerateResource.Cache
